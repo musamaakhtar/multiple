@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+.one{
+    height: 110px;
+    width: 110px;
+    background-color: aquamarine;
+    box-shadow: 10px 10px 5px rgba(3, 3, 77, 0.932);
+    margin-left: 30px;
+    margin-top: 20px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+}

@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    width: 0;
+}
+.first{
+    height: 80vh;
+    width: 100%;
+    background-color: rebeccapurple;
+    background-image: linear-gradient(green, rgba(13, 168, 13, 0.678));
+}
